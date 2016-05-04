@@ -76,11 +76,7 @@
         </ul>
         <p class="copyright text-muted">
 		  &copy;&nbsp; 
-      {{ site.author.name }}
-      &nbsp;
-      {{ site.time | date: '%Y' }}
-      &nbsp;
-      All rights reserved.
+      {{ site.author.name }} {{ site.time | date: '%Y' }} All rights reserved.
 		  
 		  {% if site.url-pretty %}
 		  &nbsp;&bull;&nbsp;
