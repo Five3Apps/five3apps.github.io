@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+meta-title: Five3 Apps - About me
 ---
 
 Hey, I'm Justin Bergen a mobile consultant located in Front Range of the Colorado Rockies. My specialty is helping wearables companies build more engaging mobile apps.
