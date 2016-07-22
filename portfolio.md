@@ -42,3 +42,16 @@ Stori is a location based social media app that allows you to find out what happ
 #### My role (2012 - 2014)
 
 _This project is no longer being actively maintained._ As co-founder and developer I was responsible for building the iOS app and overseeing the development of the server.
+
+---
+
+## Gloo
+[gloo.us](http://grow.gloo.us/)
+
+#### About the project
+
+Gloo provides the infrastructure and tool sets to allow organizations to quickly deploy content on their own digital platform uniquely designed for growth.
+
+#### My role (2013 - 2014)
+
+During my time at Gloo I lead a team of 6 mobile developers through multiple major revisions of the Gloo native mobile apps. This involved an entirely new UI/UX, a separate rebrand effort, and implementation of a white labeling solution. I also contributed to the architecture and implementation of the iOS app, including an incremental rewrite of 90% of the app that resulted in >50% reduction of code!
