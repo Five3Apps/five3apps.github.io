@@ -24,6 +24,7 @@ description: Building engaging iOS apps from the Front Range of the Colorado Roc
 # List of links in the navigation bar
 navbar-links:
   Mobile Apptimizer: "http://www.mobileapptimizer.com"
+  Portfolio: "portfolio"
   About: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
