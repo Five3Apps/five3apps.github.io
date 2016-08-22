@@ -53,12 +53,12 @@ During my time at Gloo I lead a team of 6 mobile developers through multiple maj
 
 ---
 
-## Stori
+## hapnd
 [iOS App](https://itunes.apple.com/gy/app/hapnd/id873471815?mt=8)
 
 #### About the project
 
-Stori is a location based social media app that allows you to find out what happened anywhere in the world.
+hapnd is a location based social media app that allows you to find out what happened anywhere in the world.
 
 #### My role (2012 - 2014)
 
