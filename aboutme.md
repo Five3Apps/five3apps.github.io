@@ -2,7 +2,8 @@
 layout: page
 title: <br>About me
 meta-title: Five3 Apps - About me
-bigimg: img/big-img/snowboarding_couple.jpg
+bigimg:
+- "/img/big-img/snowboarding_couple.jpg" : "Breckenridge, CO (2016)"
 ---
 
 Hey, I'm Justin Bergen a mobile consultant located in the Front Range of the Colorado Rockies. My specialty is helping health and fitness wearables companies build mobile experiences that retain more users.
