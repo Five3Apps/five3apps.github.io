@@ -38,8 +38,11 @@ Are you ready to end your frustrations with Bluetooth and mobile app syncing? Gr
 
 ## Wait! Don't take my word for it...
 
-> "Syncing is noticeably faster & more stable since the rebuild of our Bluetooth band connectivity. Nice work Justin!"
-> <br>- Chris Lorensson, User Experience Designer for UNICEF KidPower
+>"Syncing is noticeably faster & more stable since the rebuild of our Bluetooth band connectivity. Nice work Justin!"
+><br>- Chris Lorensson, User Experience Designer for [UNICEF KidPower](http://unicefkidpower.org/)
+
+>"I can’t say thank you enough to Justin for the rebuild of our Bluetooth band connectivity. We get very few syncing tickets in proportion to 6 months ago when we were drowning in them."
+><br>- Micah Mount, Tech Support Team Lead for [UNICEF KidPower](http://unicefkidpower.org/)
 
 
 ## Still have questions?
