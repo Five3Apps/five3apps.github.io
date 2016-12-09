@@ -32,6 +32,12 @@ blockquote {
   color: #808080;
   font-style: italic;
 }
+blockquote img {
+  float:left;
+  margin-right: 20px;
+  width:80px;
+  height:80px;
+}
 hr.small {
   max-width: 100px;
   margin: 15px auto;

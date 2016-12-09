@@ -3,6 +3,7 @@ layout: page
 title: Hey, I'm Justin
 subtitle: I help health and fitness wearables companies build mobile experiences that retain more users
 meta-title: "Five3 Apps"
+#bigimg: "/img/big-img/snowboarding_couple.jpg"
 ---
 
 <div>
@@ -10,54 +11,28 @@ meta-title: "Five3 Apps"
 
   <p>Building a smooth and enjoyable experience between a wearable and mobile app is challenging! Sometimes you just need a little advice from someone new. Maybe you need someone to build the BLE connection library, or even the whole app.</p>
 
-  <p>Get in touch, and let’s talk about the mobile solution that’s right for you.</p>
-</div>
-
-<div>
-  <h3 class="{{ include.type }}-subheading">
-   Is your mobile app engagement stagnant or suffering?
+  <h3 class="brands">
+   Brands I've worked with
   </h3>
+  <div align=center>
+    <img src="/img/logos/starwars_grey.png" alt="Star Wars" style="width:194px;height:80px;"/> <img src="/img/logos/unicef1_grey.png" alt="UNICEF" style="width:78px;height:80px;"/> <img src="/img/logos/walmart_grey.png" alt="Walmart" style="width:230px;height:80px;"/>
+  </div>
 
-  <p>Five3 Apps is now offering a user engagment service called <a href="http://www.mobileapptimizer.com/">Mobile Apptimizer</a> to help you optimize your app's engagement.</p>
+  <h3 class="testimonials">
+   What other people say
+  </h3>
+  <blockquote>
+    <p><img src="img/avatars/micah_mount.jpg"/> “I can’t say thank you enough to Justin for the rebuild of our Bluetooth band connectivity. We receive very few syncing tickets in proportion to 6 months ago when we were drowning in them.”</p>
+    <p>- Micah Mount, Tech Support Team Lead for <a href="/portfolio.html#unicef-kidpower">UNICEF KidPower</a></p>
+  </blockquote>
+  <blockquote>
+    <p><img src="img/avatars/nico_valencia.jpg"/> Justin is a solid engineer and natural leader, and his development skills speak for themselves. Justin is a great asset to any team, and I’d certainly work with him again in the future.</p>
+    <p>‑ Nico Valencia, Director of Engineering at Gloo</p>
+  </blockquote>
+
+  <h2 class="get-in-touch">
+    How can I help?
+  </h3>
+  <p>Schedule a free 15 minute consultation to see if I'm the right fit to help your business.</p>
+  <a class="btn btn-primary btn-lg" href="https://calendly.com/justin-five3apps/15min">Schedule Free Consultation</a>
 </div>
-
-<div class="posts-list">
-  {% for post in paginator.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-	
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}  
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-  
-    <div class="post-entry">
-      {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-    </div>
-  
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
