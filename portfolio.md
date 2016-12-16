@@ -10,6 +10,8 @@ meta-title: Five3 Apps - Portfolio
 
 #### About the project
 
+Featured in TIME _[25 Best Inventions of 2016](http://time.com/4572079/best-inventions-2016/item/a-bracelet-that-helps-kids-give-back/)_!
+
 UNICEF Kid Power gives you the power to save lives. By getting active with the UNICEF Kid Power Band, you can go on missions, earn points and unlock therapeutic food packets for severely malnourished children around the world.
 
 Presenting Sponsors: 
