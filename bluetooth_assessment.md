@@ -48,7 +48,7 @@ The cost is $3,000.
 
 ## Wait! Don't take my word for it...
 
->![Chris Lorensson](img/avatars/chris_lorensson.jpg) "Syncing is noticeably faster & more stable since the rebuild of our Bluetooth band connectivity. Nice work Justin!"
+>![Chris Lorensson](/img/avatars/chris_lorensson.jpg) "Syncing is noticeably faster & more stable since the rebuild of our Bluetooth band connectivity. Nice work Justin!"
 >
 >
 >\- Chris Lorensson, User Experience Designer for for <a href="/portfolio.html#unicef-kidpower">UNICEF KidPower</a>
