@@ -12,5 +12,12 @@ My first tech memory is playing MoonPatrol on my grandmother's Apple ][. I have 
 
 When I'm not doing techie things, I can usually be found hanging out with my beautiful wife, playing with my 3 little boys, or enjoying everything the mountains have to offer ... or better yet, all of the above. My favorite mountain sports right now are snowboarding, mountain biking, and backpacking/camping. Whatever I'm doing I always have at least one wearable measuring it.
 
+#### My Current wearables
+
+- Daily activity: [Apple Watch Nike+](http://www.apple.com/apple-watch-nike/) or [KidPower Band](http://unicefkidpower.org/)
+- Weightlifting: [Atlas Wristband2](https://www.atlaswearables.com/wristband/)
+- Mountain biking: [Apple Watch Nike+](http://www.apple.com/apple-watch-nike/) with [Runkeeper](https://runkeeper.com/)
+- Snowboarding: [Apple Watch Nike+](http://www.apple.com/apple-watch-nike/) with [Slopes](https://getslopes.com/)
+
 ### Five3 Apps
 The name comes from the 53 official 14ers (mountain peaks over 14,000ft in elevation) in Colorado.
