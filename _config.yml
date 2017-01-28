@@ -74,6 +74,7 @@ google_analytics: "UA-76847019-1"
 
 # Fill in your Mixpanel token to track your website using Mixpanel
 mixpanel_analytics: "bf639736e82792bc4203ea7d1936393e"
+mixpanel_analytics_dev: "70d0582c2ac60a36e558df65ae3fbe1f"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
