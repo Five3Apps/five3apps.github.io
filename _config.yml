@@ -24,7 +24,7 @@ description: Building engaging iOS apps from the Front Range of the Colorado Roc
 # List of links in the navigation bar
 navbar-links:
   #Mobile Apptimizer: "http://www.mobileapptimizer.com"
-  #Portfolio: "portfolio"
+  Bluetooth Assessment: "bluetooth_assessment"
   About: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -44,7 +44,7 @@ avatar: "/img/avatars/justin-bergen-square.jpg"
 author:
   name: Five3 Apps
   email: "justin@five3apps.com"
-  #facebook: yourname  # eg. daattali
+  facebook: five3apps  # eg. daattali
   github: itsniper    # eg. daattali
   twitter: thenighttrader   # eg. daattali
   linkedin: in/justinbergen  # eg. "pub/dean-attali/8/946/143"
@@ -53,8 +53,8 @@ author:
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
-  email: true
+  facebook: true
+  email: false
   twitter: true
   github: false
   linkedin: true
