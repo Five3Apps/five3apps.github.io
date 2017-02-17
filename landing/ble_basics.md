@@ -10,11 +10,11 @@ meta-title: Five3 Apps - Bluetooth Low Energy
   <div data-drip-attribute="description">
   	<p>Hi, I'm Justin and I work with health and fitness wearables companies every day to build better mobile experiences for health and fitness wearables.</p>
 
-  	<p>I've put together a course to help non-technical (and technical) people gain a little better understanding of what Bluetooth low energy (BLE / Bluetooth Smart) is and how it relates to your wearable project.</p>
+  	<p>Sign up for a 5-day email course for non-technical (and technical) people and gain a better understanding of what Bluetooth low energy (BLE / Bluetooth Smart) is and how it relates to your wearable project.</p>
 
 	<p>Learn about:
 	<ul>
-		<li>What BLE is, and why it's a good choice for wearables.</li>
+		<li>What BLE is, and why it's a good choice for your wearable.</li>
 		<li>How BLE devices find each other.</li>
 		<li>What a central and peripheral are, and the roles they each play.</li>
 		<li>What GAP and GATT are and how they control communication.</li>
