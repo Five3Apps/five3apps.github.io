@@ -15,9 +15,11 @@ meta-title: Five3 Apps - Top 5 Bluetooth Improvements
     <img class="img-responsive" src="/img/artwork/Top5BT800x1200cover-3D.png"/>
   </div>
   <div class="col-md-7">
-    <h3>Steal these Bluetooth improvements that I use in every wearables project I work on!</h3>
+    <h3>Give your users a great sync experience, every time!</h3>
 
-    Get my ridiculously actionable (and <i>totally free</i>) <b>Top-5 Bluetooth Improvement Ideas</b> guide with nearly half a dozen ideas you must know about giving your users a great sync experience. Shave off countless hours of guesswork and improve your wearable sync experience today…
+    <p class="text-uppercase">The guide to better Bluetooth low energy syncing.</p>
+
+    <p>Download the guide to discover 5 ideas that will improve your Bluetooth low energy connectivity. Shave off countless hours of guesswork and improve your wearable sync experience today!</p>
   </div>
 </div>
 
@@ -36,10 +38,10 @@ meta-title: Five3 Apps - Top 5 Bluetooth Improvements
 </div>
 
 ## Here's what you'll learn:
-- Ways to make your app more efficent at finiding your wearable.
+- Ways to make your app more efficent at finding your wearable.
 - Tips for giving your team the tools they need to diagnose user issues.
 - Giving your app the ability to recover from intermittent issues, without the user even knowing!
-- How lower you user's frustrations, even when things still go wrong.
+- How to lower your users' frustrations, even when things occationally still go wrong.
 
 <div class="jumbotron clearfix" style="margin-top:40px">
   <div class="col-md-4" style="margin-top:40px">
