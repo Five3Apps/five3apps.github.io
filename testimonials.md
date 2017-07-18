@@ -7,7 +7,7 @@ meta-title: Five3 Apps - Testimonials
 
 <div>
 	<div style="float:left;margin-right:40px;margin-bottom:20px;">
-		<img src="img/avatars/troy_hickerson.jpg" style="height:140px;width:140px"/>
+		<img src="../img/avatars/troy_hickerson.jpg" style="height:140px;width:140px"/>
 		<p><i><b>Troy Hickerson</b>
 		<br>CEO, <a href="http://caloriecloud.org/">Calorie Cloud</a></i></p>
 	</div>
