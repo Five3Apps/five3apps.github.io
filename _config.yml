@@ -25,6 +25,7 @@ description: Building engaging iOS apps from the Front Range of the Colorado Roc
 navbar-links:
   #Mobile Apptimizer: "http://www.mobileapptimizer.com"
   Bluetooth Assessment: "bluetooth_assessment"
+  Testimonials: "testimonials"
   About: "aboutme"
   #Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

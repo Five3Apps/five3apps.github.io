@@ -10,15 +10,19 @@ meta-title: Five3 Apps - Portfolio
 
 #### About the project
 
-Featured in TIME _[25 Best Inventions of 2016](http://time.com/4572079/best-inventions-2016/item/a-bracelet-that-helps-kids-give-back/)_!
+Featured in TIME _[25 Best Inventions of 2016](http://time.com/4572079/best-inventions-2016/)_!
 
 UNICEF Kid Power gives you the power to save lives. By getting active with the UNICEF Kid Power Band, you can go on missions, earn points and unlock therapeutic food packets for severely malnourished children around the world.
 
 Presenting Sponsors: 
 _Star Wars: Force for Change_ and Target
 
-#### My role (2015 - Current)
-I worked with the KidPower team to architect and implement their MVP, including a full BLE communication stack. I currently provide ongoing app engagement, technical and architectural guidance for their growing internal team.
+#### My role (2015 - 2017)
+I worked with the KidPower team to architect and implement the MVP around their existing BLE (sync) code. In mid-2016 I re-built the full BLE communication stack, virtually eliminating user issues around syncing.
+
+Once Kid Power hired a full-time iOS developer I provided ongoing app engagement, technical and architectural guidance for their growing internal team.
+
+I stepped back into a more hands-on role to architect and build Apple Health integration and an Apple Watch app to allow parents to more easily participate in the program along side their kids.
 
 >I cannot recommend Justin more highly. He does not tolerate "good enough", especially of himself; he strives toward excellence. He believes in products that meet a genuine need, are intelligently designed, and are a pleasure to use. He'll take the time to make something the right way, the first time. Justin would be an invaluable asset to any organization for his energy, responsibility, and technical savvy, but I believe his desire to exceed expectations and pursue challenges is what truly sets him apart.
 >
