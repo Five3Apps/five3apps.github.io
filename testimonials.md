@@ -23,3 +23,21 @@ meta-title: Five3 Apps - Testimonials
 
 	<p><b>Justin has that high level of expertise and works closely with his clients.</b> Unlike an agency that might hand your project off to lower-level talent when something new comes in, which can slow things down, <b>Justin shares ownership of the project and deadlines.</b> I definitely would highly recommend him."</p>
 </div>
+
+<hr>
+
+<div>
+	<div style="float:left;margin-right:40px;margin-bottom:20px;">
+		<img src="../img/avatars/ryan_modjeski.jpg" style="height:140px;width:140px"/>
+		<p><i><b>Ryan Modjeski</b>
+		<br>Sr. Director - Product, 
+		<br><a href="https://www.unicefusa.org/">UNICEF USA</a></i></p>
+	</div>
+	<p>"<b>We had to condense a year-long project roadmap into five months</b> to meet a sponsor’s requirements for our UNICEF Kid Power Mobile App on iOS. Later on, our Apple Watch app was also potentially going to receive a lot of promotion from Apple and as a high-profile organization, we get a lot of attention anyway. For both projects <b>we had to work in a very fast and nimble way to develop a product that was strong enough to stand up to lots of simultaneous users.</b> Justin’s specialty in the wearable market and iOS was the perfect solution to help us meet these challenges.</p>
+ 
+	<p>During our planning sessions, Justin helped us turn what we wanted to do into reality given our budget and constraints. When we did a scoping exercise and planned our product development, <b>the dates that Justin picked were the dates that he hit.</b> After we got feedback from Apple on our prototypes, <b>Justin helped us quickly take our product from a MVP that we could technically ship to a polished product that we were proud of and actually works in the marketplace.</b></p>
+ 
+	<p>Justin builds for scale. <b>Everything he's done – all the back-end work – we've been able to reuse into our new experience because he built it in a way that it can be modified, scaled, and moved.</b> Because he architected our event tracking system in a self-contained module, we can just plug his code into a new analytics SDK, rather than redoing all the work from scratch. We’ve been able to take his Bluetooth syncing code for iOS and basically just cut and paste it into the new app that we’re building, <b>which saves us a ton of effort, time and money.</b></p>
+ 
+	<p>I particularly appreciated Justin’s <b>professionalism, his persistence, his ability to communicate, and the way he really took ownership of the project.</b> When considering a problem we were facing, he came at it like he was a member of our team and not just a consultant. He is a serious and nimble thinker and a curious problem-solver who is great at looking ahead, seeing potential pitfalls and offering solutions. He's a great asset and I’d absolutely recommend him."</p>
+</div>
