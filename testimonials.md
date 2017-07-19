@@ -19,7 +19,7 @@ meta-title: Five3 Apps - Testimonials
 
 	<p>What I appreciated most about Justin’s service was <b>his willingness to dive into the deep work</b> and not just take short cuts. He thinks through the ramifications and creates a work plan, which gave us confidence that we had an app that would be stable and would be where we need it to be to scope a new feature.</p>
 
-	<p>Justin’s personality and demeanor were a good fit and <b>he was great at coordinating and and providing technical leadership.</b> He introduced a development team retrospective process, which gave the team members a great avenue to communicate their ideas and get feedback. That level of open communication made everyone feel good about the progress we were making.</p>
+	<p>Justin’s personality and demeanor were a good fit and <b>he was great at coordinating and providing technical leadership.</b> He introduced a development team retrospective process, which gave the team members a great avenue to communicate their ideas and get feedback. That level of open communication made everyone feel good about the progress we were making.</p>
 
 	<p><b>Justin has that high level of expertise and works closely with his clients.</b> Unlike an agency that might hand your project off to lower-level talent when something new comes in, which can slow things down, <b>Justin shares ownership of the project and deadlines.</b> I definitely would highly recommend him."</p>
 </div>
