@@ -5,7 +5,7 @@ title: Client Testimonials
 meta-title: Five3 Apps - Testimonials
 ---
 
-<div>
+<div id="troy-hickerson">
 	<div style="float:left;margin-right:40px;margin-bottom:20px;">
 		<img src="../img/avatars/troy_hickerson.jpg" style="height:140px;width:140px"/>
 		<p><i><b>Troy Hickerson</b>
@@ -24,7 +24,7 @@ meta-title: Five3 Apps - Testimonials
 	<p><b>Justin has that high level of expertise and works closely with his clients.</b> Unlike an agency that might hand your project off to lower-level talent when something new comes in, which can slow things down, <b>Justin shares ownership of the project and deadlines.</b> I definitely would highly recommend him."</p>
 </div>
 
-<hr>
+<hr id="ryan-modjeski">
 
 <div>
 	<div style="float:left;margin-right:40px;margin-bottom:20px;">
