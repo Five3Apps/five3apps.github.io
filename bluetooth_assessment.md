@@ -48,11 +48,11 @@ The cost is $3,000.
 
 ## Wait! Don't take my word for it...
 
->![Chris Lorensson](/img/avatars/chris_lorensson.jpg) "Syncing is noticeably faster & more stable since the rebuild of our Bluetooth band connectivity. Nice work Justin!"
+>![Micah Mount](/img/avatars/micah_mount.jpg) “I can’t say thank you enough to Justin for the rebuild of our Bluetooth band connectivity. We receive very few syncing tickets in proportion to 6 months ago when we were drowning in them."
 >
 >
->\- Chris Lorensson, User Experience Designer for for <a href="/portfolio#unicef-kidpower">UNICEF KidPower</a>
-><br>TIME [25 Best Inventions of 2016](http://time.com/4572079/best-inventions-2016/item/a-bracelet-that-helps-kids-give-back/)
+>\- Micah Mount, Tech Support Team Lead for <a href="/portfolio#unicef-kidpower">UNICEF KidPower</a>
+><br>TIME [25 Best Inventions of 2016](http://time.com/4572079/best-inventions-2016/)
 
 #### Brands I've worked with
 
