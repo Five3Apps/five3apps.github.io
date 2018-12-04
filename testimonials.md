@@ -41,3 +41,39 @@ meta-title: Five3 Apps - Testimonials
  
 	<p>I particularly appreciated Justin’s <b>professionalism, his persistence, his ability to communicate, and the way he really took ownership of the project.</b> When considering a problem we were facing, he came at it like he was a member of our team and not just a consultant. He is a serious and nimble thinker and a curious problem-solver who is great at looking ahead, seeing potential pitfalls and offering solutions. He's a great asset and I’d absolutely recommend him."</p>
 </div>
+
+<hr id="rabs-hughey">
+
+<div>
+	<div style="float:left;margin-right:40px;margin-bottom:20px;">
+		<img src="../img/avatars/rabs_hughey.jpg" style="height:140px;width:140px"/>
+		<p><i><b>Rabs Hughey</b>
+		<br>CFO, 
+		<br><a href="https://www.bulbapp.com/">bulb</a></i></p>
+	</div>
+	<p>We had an opportunity to expand our web-based offering with the iOS platform to respond to what our customers (many of whom are iOS-based) wanted and needed. We pursued working with an international team, but they didn’t have the capabilities we needed to deliver. <b>We needed somebody with expertise to jump in and partner with our product manager to execute and get us what we needed in a time crunch.</b></p>
+
+	<p>Any time you're working with a third party, communication is always a key concern, especially when they're working off-site. It didn't prove to be an issue at all in working with Justin. We had worked with him in the past. Knowing his skills, we had complete trust in him.</p>
+
+	<p><b>Often times in the development world, there are promises of what can be done and then you hit glitches and things get pushed and you have to cut back. But not with Justin.</b> He just said what he was going to do, and he delivered without any delays. <b>We hit our deadlines and everything that was expected was produced.</b> We didn’t have a case of "Oh my gosh, it's going to take an extra three weeks because I didn't see that!" It's a breath of fresh air to have something just be done as we planned. <b>Justin is expensive, no question. But it was worth the investment.</b> We had a time crunch to get the application to our customers when they expect it and that’s what we did. We delivered it because he helped us deliver it.</p>
+
+	<p><b>There's a certain perception that if somebody's really, really talented in development you have to put up with some quirks relative to their people skills.</b> And that's not true with Justin, at all. It is rare to find somebody with such coding talent and great people skills. He has that rare combination.</p>
+
+	<p>I’d recommend Justin others. He’s worth it. He’s got the skills, he communicates well, and he delivers.</p>
+</div>
+
+<hr id="jackie-myrose">
+
+<div>
+	<div style="float:left;margin-right:40px;margin-bottom:20px;">
+		<img src="../img/avatars/jackie_myrose.jpg" style="height:140px;width:140px"/>
+		<p><i><b>Jackie Myrose</b>
+		<br>Project Manager, 
+		<br><a href="https://www.bulbapp.com/">bulb</a></i></p>
+	</div>
+	<p>Justin worked on the back end of the iOS app, architecting the entire thing and implementing the networking and Core Data storage layers. Because he’s such an experienced developer, he was able to take what we had and run with it, unlike others that need a lot of guidance and hand-holding. <b>That saved a lot of time on my end.</b></p>
+
+	<p>He’s very resourceful and codes at a high level. We didn't have a very well-documented API, but he was still able to work with it. The fact we didn’t have to spend a lot of time creating excessive documentation – which we would have had to do with others – made my life a lot easier.</p>
+
+	<p><b>One of the key benefits of working with Justin is he thought ahead with what he was building and made it future proof.</b> It’s the sign of a really solid senior engineer to architect things that way. He documented the code very well and he was very conscientious about leaving comments in his code in case we ended up bringing a junior developer on later. I really appreciated that foresight.</p>
+</div>
