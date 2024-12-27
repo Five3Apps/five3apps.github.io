@@ -5,7 +5,13 @@ layout: minimal
 meta-title: "Five3 Apps - Project Overview Call"
 ---
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/justin-five3apps/30-min-overview" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<div id="booking-page">
+    <!-- this is where SavvyCal will inject the interface -->
+</div>
+
+<script>window.SavvyCal=window.SavvyCal||function(){(SavvyCal.q=SavvyCal.q||[]).push(arguments)};</script>
+<script async src="https://embed.savvycal.com/v1/embed.js"></script>
+<script>
+    SavvyCal('init')
+    SavvyCal('inline', { link: 'justinbergen/intro', selector: '#booking-page' });
+</script>
