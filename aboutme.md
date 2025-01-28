@@ -14,10 +14,12 @@ When I'm not doing techie things, I can usually be found hanging out with my bea
 
 #### My Current wearables
 
-- Daily activity: [Apple Watch Nike+](http://www.apple.com/apple-watch-nike/) or [KidPower Band](http://unicefkidpower.org/)
-- Weightlifting: [Atlas Wristband2](https://www.atlaswearables.com/wristband/)
-- Mountain biking: [Apple Watch Nike+](http://www.apple.com/apple-watch-nike/) with [Runkeeper](https://runkeeper.com/)
-- Snowboarding: [Apple Watch Nike+](http://www.apple.com/apple-watch-nike/) with [Slopes](https://getslopes.com/)
+- Daily activity: [Apple Watch](https://www.apple.com/watch/)
+- Mountain/gravel biking: [Garmin Edge® 1040](https://www.garmin.com/en-US/p/731139) with [Scosche Rhythm+ 2.0](https://www.scosche.com/rhythm-plus-2-armband-heart-rate-monitor)
+- Indoor cycling: [Tacx® NEO Smart Bike](https://www.garmin.com/en-US/p/690885) with [Scosche Rhythm+ 2.0](https://www.scosche.com/rhythm-plus-2-armband-heart-rate-monitor) on [Zwift](https://www.zwift.com)
+- Snowboarding: [Apple Watch](https://www.apple.com/watch/) running [Slopes](https://getslopes.com/)
+
+All of my activities are sent to [Strava](https://www.strava.com/athletes/22862343)
 
 ### Five3 Apps
 The name comes from the 53 official 14ers (mountain peaks over 14,000ft in elevation) in Colorado.
