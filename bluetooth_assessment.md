@@ -19,7 +19,7 @@ meta-title: Five3 Apps - Bluetooth Assessment
 
 ## Get an assessment from a Bluetooth and mobile expert
 
-**Put the uncertainty and guessing behind you** -- Often all it takes is talking to the right person. Stop the trial and error, and learn exactly what to do next. Book a Bluetooth assessment with me -- a 10yr veteran of the hardware and software industry, with over 4yrs experience building iOS apps.
+**Put the uncertainty and guessing behind you** -- Often all it takes is talking to the right person. Stop the trial and error, and learn exactly what to do next. Book a Bluetooth assessment with me -- a 20yr veteran of the hardware and software industry, with over 10yrs experience building iOS apps.
 
 I promise to give you no-nonsense advice that you can put into action immediately. This is not generic, cookie-cutter opinions. This is insight customized specifically to your business goals, unique product, and situation.
 
@@ -76,7 +76,7 @@ Probably not. For something this small it's not worth getting the lawyers involv
 
 ## Why me?
 
-Hi! I'm Justin Bergen and I have over 10yrs of experience working at the intersection of hardware and software, with roles in both quality assurance and development. During that time I've worked on iOS for nearly 5yrs, including several Bluetooth and wearables projects.
+Hi! I'm Justin Bergen and I have over 20yrs of experience working at the intersection of hardware and software, with roles in both quality assurance and development. During that time I've worked on iOS for over 10yrs, including several Bluetooth and wearables projects.
 
 While every project comes with a unique set of challenges, the fundamentals of Bluetooth and iOS apps are not new to me. Unique challenges I have experience with include in-body wearables, background sync, and wearables for kids.
 
