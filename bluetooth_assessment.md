@@ -43,7 +43,7 @@ The cost is $3,000.
     </h2>
     
     Are you ready to end your frustrations with Bluetooth and iOS app syncing? Great! Book your free initial consultation call with me now:
-    <br><br><a class="btn btn-primary btn-lg" href="https://calendly.com/justin-five3apps/bluetooth-assessment-consultation">Schedule Initial Consultation</a>
+    <br><br><a class="btn btn-primary btn-lg" href="http://five3apps.com/call/">Schedule Initial Consultation</a>
 </div>
 
 ## Wait! Don't take my word for it...
@@ -88,7 +88,7 @@ My goal is to use my expertise to move your business forward by providing your u
     </h2>
     
     Don't waste another day frustrated with Bluetooth! Schedule your free initial consultation call now:
-    <br><br><a class="btn btn-primary btn-lg" href="https://calendly.com/justin-five3apps/bluetooth-assessment-consultation">Schedule Initial Consultation</a>
+    <br><br><a class="btn btn-primary btn-lg" href="http://five3apps.com/call/">Schedule Initial Consultation</a>
 </div>
 
 ## Availability is limited
